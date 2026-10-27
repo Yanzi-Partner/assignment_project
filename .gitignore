@@ -1,0 +1,12 @@
+# 构建产物
+build/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# 编辑器 / IDE
+.vs/
+.vscode/
+cmake-build-*/
